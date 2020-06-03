@@ -1,0 +1,23 @@
+{
+  "name": "my-first-app",
+  "version": "1.0.0",
+  "description": "Doing things",
+  "main": "example-node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon example-node.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaakMitchell/comp-2068-week2.git"
+  },
+  "author": "Mitchell Haak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaakMitchell/comp-2068-week2/issues"
+  },
+  "homepage": "https://github.com/HaakMitchell/comp-2068-week2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
